@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="232" started-at="2022-04-06T23:13:31 IST" finished-at="2022-04-06T23:13:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="232" started-at="2022-04-06T23:13:31 IST" finished-at="2022-04-06T23:13:31 IST">
+      <class name="com.testNG_Practice.Data_Provider">
+        <test-method status="PASS" signature="Adactin_Runner(java.lang.String,int)[pri:0, instance:com.testNG_Practice.Data_Provider@5bfbf16f]" name="Adactin_Runner" duration-ms="19" started-at="2022-04-06T23:13:31 IST" data-provider="test_data" finished-at="2022-04-06T23:13:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[starc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adactin_Runner -->
+        <test-method status="PASS" signature="Adactin_Runner(java.lang.String,int)[pri:0, instance:com.testNG_Practice.Data_Provider@5bfbf16f]" name="Adactin_Runner" duration-ms="7" started-at="2022-04-06T23:13:31 IST" data-provider="test_data" finished-at="2022-04-06T23:13:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[smith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adactin_Runner -->
+        <test-method status="PASS" signature="Adactin_Runner(java.lang.String,int)[pri:0, instance:com.testNG_Practice.Data_Provider@5bfbf16f]" name="Adactin_Runner" duration-ms="3" started-at="2022-04-06T23:13:31 IST" data-provider="test_data" finished-at="2022-04-06T23:13:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[watson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adactin_Runner -->
+        <test-method status="PASS" signature="automation_runner(java.lang.String,int)[pri:0, instance:com.testNG_Practice.Data_Provider@5bfbf16f]" name="automation_runner" duration-ms="5" started-at="2022-04-06T23:13:31 IST" data-provider="test_data" finished-at="2022-04-06T23:13:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[starc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automation_runner -->
+        <test-method status="PASS" signature="automation_runner(java.lang.String,int)[pri:0, instance:com.testNG_Practice.Data_Provider@5bfbf16f]" name="automation_runner" duration-ms="3" started-at="2022-04-06T23:13:31 IST" data-provider="test_data" finished-at="2022-04-06T23:13:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[smith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automation_runner -->
+        <test-method status="PASS" signature="automation_runner(java.lang.String,int)[pri:0, instance:com.testNG_Practice.Data_Provider@5bfbf16f]" name="automation_runner" duration-ms="6" started-at="2022-04-06T23:13:31 IST" data-provider="test_data" finished-at="2022-04-06T23:13:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[watson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automation_runner -->
+      </class> <!-- com.testNG_Practice.Data_Provider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
